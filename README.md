@@ -6,9 +6,9 @@
 
 ### 🎓 Academic Affairs Coordinator @ 4Geeks Academy
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-marcogonzalo-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/marcogonzalo/)
-[![Twitter](https://img.shields.io/badge/Twitter-@MarcoGonzalo-1DA1F2?style=flat&logo=twitter)](https://twitter.com/MarcoGonzalo)
-[![4Geeks Academy](https://img.shields.io/badge/4Geeks-Academy-orange?style=flat)](https://4geeksacademy.com)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-MarcoGonzalo-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/marcogonzalo/)
+[![X (Twitter)](https://img.shields.io/badge/@MarcoGonzalo-black?style=flat&logo=x)](https://x.com/MarcoGonzalo)
+[![Instagram](https://img.shields.io/badge/@UnMarcoAndando-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/unmarcoandando)
 
 </div>
 
@@ -174,9 +174,10 @@ Miembro activo de:
 ¿Tienes un proyecto educativo? ¿Buscas mentoría en desarrollo? ¿Quieres colaborar en algo innovador?
 
 - 💼 LinkedIn: [/in/marcogonzalo](https://www.linkedin.com/in/marcogonzalo/)
-- 🐦 Twitter: [@MarcoGonzalo](https://twitter.com/MarcoGonzalo)
+- 🐦 X: [@MarcoGonzalo](https://x.com/MarcoGonzalo)
+- 📷 Instagram [@UnMarcoAndando](https://instagram.com/unmarcoandando)
 - 🌐 Web: [4geeksacademy.com](https://4geeksacademy.com)
-- 📍 Madrid, España 🇪🇸 (Originally from 🇻🇪)
+- 📍 Madrid, España 🇪🇸 (Originally from 🇻🇪 but born in A Coruña, Galicia)
 
 ---
 
